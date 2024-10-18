@@ -14,6 +14,7 @@ How to install plugins: https://www.zotero.org/support/plugins#:~:text=To%20inst
 
 Plugins:
 
+<<<<<<< HEAD
 Title: Zotero OCR
 Github repository link (name and author): (UB-Mannheim / zotero-ocr)[https://github.com/UB-Mannheim/zotero-ocr]
 Description: Zotero Plugin for OCR. This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero. It can add a new PDF including the recognized text, a note with the recognized text only, and HTML (hOCR) file(s). Tesseract OCR is used for the text recognition itself.
@@ -21,3 +22,23 @@ Tags: ocr, tesseract-ocr, zotero, zotero-plugin
 Status: ![Commits](https://badgen.net/github/commits/UB-Mannheim/zotero-ocr)
 Zotero 6 release: https://github.com/UB-Mannheim/zotero-ocr/releases/latest
 Zotero 7 release: https://github.com/UB-Mannheim/zotero-ocr/releases/latest
+=======
+## What is Zotero?
+
+Zotero ([zotero.org](https://www.zotero.org)) is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
+
+## How to Install Plugins
+
+To install a plugin, follow this guide: [Zotero Plugin Installation](https://www.zotero.org/support/plugins#:~:text=To%20install%20a%20plugin%20in,xpi%20onto%20the%20Plugins%20window).
+
+## Plugins
+
+### Zotero OCR
+
+- **GitHub Repository:** [UB-Mannheim / zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr)
+- **Description:** Zotero Plugin for OCR. This Zotero plugin adds the functionality to perform OCR for the PDFs selected in Zotero. It can add a new PDF including the recognized text, a note with the recognized text only, and HTML (hOCR) file(s). Tesseract OCR is used for the text recognition itself.
+- **Tags:** `ocr`, `tesseract-ocr`, `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/commits/UB-Mannheim/zotero-ocr)
+- **Zotero 6 Release:** [Latest Release](https://github.com/UB-Mannheim/zotero-ocr/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/UB-Mannheim/zotero-ocr/releases/latest)
+>>>>>>> parent of 37d51b7 (Update README.md)
