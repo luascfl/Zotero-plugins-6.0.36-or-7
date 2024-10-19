@@ -36,3 +36,98 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Status:** ![Commits](https://badgen.net/github/last-commit/jlegewie/zotfile)
 - **Zotero 6 Release:** [Latest Release](https://github.com/jlegewie/zotfile/releases/latest)
 - **Zotero 7 Release:** Unreleased, unmaintained
+
+### Zotodo
+
+- **GitHub Repository:** [wbthomason / zotodo](https://github.com/wbthomason/zotodo)
+- **Description:** A Zotero plugin to make Todoist tasks for papers added to Zotero
+- **Tags:** `organization`, `papers`, `todoist`, `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/wbthomason/zotodo)
+- **Zotero 6 Release:** [Latest Release](https://github.com/wbthomason/zotodo/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/wbthomason/zotodo/releases/latest)
+
+### Zotero PDF Translate
+
+- **GitHub Repository:** [windingwind / zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
+- **Description:** Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
+- **Tags:** `pdf`, `plugin`, `translate`, `translation`, `zotero`, `zotero-plugin`, `zotero7`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/windingwind/zotero-pdf-translate)
+- **Zotero 6 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-translate/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-translate/releases/latest)
+
+### Zotero PDF Preview
+
+- **GitHub Repository:** [windingwind / zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview)
+- **Description:** Preview Zotero attachments in the library view.
+- **Tags:** `pdf`, `preview`, `zotero`, `zotero-plugin`, `zotero7`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/windingwind/zotero-pdf-preview)
+- **Zotero 6 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-preview/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-preview/releases/latest)
+
+### Zotero Addons
+
+- **GitHub Repository:** [syt2 / zotero-addons](https://github.com/syt2/zotero-addons)
+- **Description:** Install add-ons directly in Zotero | Zotero Add-on Market | Zotero插件市场
+- **Tags:** `zotero`, `zotero-addon`, `zotero-addon-market`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/syt2/zotero-addons)
+- **Zotero 6 Release:** [Latest Release](https://github.com/syt2/zotero-addons/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/syt2/zotero-addons/releases/latest)
+
+### Zotero ShortDOI
+
+- **GitHub Repository:** [bwiernik / zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi)
+- **Description:** Zotero extension to retrieve and validate DOIs and shortDOIs
+- **Status:** ![Commits](https://badgen.net/github/last-commit/bwiernik/zotero-shortdoi)
+- **Zotero 6 Release:** [Latest Release](https://github.com/bwiernik/zotero-shortdoi/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/bwiernik/zotero-shortdoi/releases/latest)
+
+### Zotitle
+
+- **GitHub Repository:** [ManuelaRunge / Zotitle](https://github.com/ManuelaRunge/Zotitle)
+- **Description:** Zotero plugin to change title case
+- **Tags:** `plugin`, `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/ManuelaRunge/Zotitle)
+- **Zotero 6 Release:** [Latest Release](https://github.com/ManuelaRunge/Zotitle/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/ManuelaRunge/Zotitle/releases/latest)
+
+### Zotero Night
+
+- **GitHub Repository:** [tefkah / zotero-night](https://github.com/tefkah/zotero-night)
+- **Description:** Night theme for Zotero UI and PDF
+- **Status:** ![Commits](https://badgen.net/github/last-commit/tefkah/zotero-night)
+- **Zotero 6 Release:** [Latest Release](https://github.com/tefkah/zotero-night/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/tefkah/zotero-night/releases/latest)
+
+### Zotero Reading List
+
+- **GitHub Repository:** [Dominic-DallOsto / zotero-reading-list](https://github.com/Dominic-DallOsto/zotero-reading-list)
+- **Description:** Keep track of whether you've read items in Zotero
+- **Tags:** `reading-list`, `todo`, `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/Dominic-DallOsto/zotero-reading-list)
+- **Zotero 6 Release:** [Latest Release](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/latest)
+
+### Backup Plugin for Zotero
+
+- **GitHub Repository:** [iShareStuff / Backup-Plugin-for-Zotero](https://github.com/iShareStuff/Backup-Plugin-for-Zotero)
+- **Description:** Backup Plugin for Zotero
+- **Status:** ![Commits](https://badgen.net/github/last-commit/iShareStuff/Backup-Plugin-for-Zotero)
+- **Zotero 6 Release:** [Latest Release](https://github.com/iShareStuff/Backup-Plugin-for-Zotero/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/iShareStuff/Backup-Plugin-for-Zotero/releases/latest)
+
+### Zotero GPT
+
+- **GitHub Repository:** [MuiseDestiny / zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)
+- **Description:** GPT Meet Zotero.
+- **Tags:** `gpt`, `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/MuiseDestiny/zotero-gpt)
+- **Zotero 6 Release:** [Latest Release](https://github.com/MuiseDestiny/zotero-gpt/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/MuiseDestiny/zotero-gpt/releases/latest)
+
+### Zotero Format Metadata
+
+- **GitHub Repository:** [northword / zotero-format-metadata](https://github.com/northword/zotero-format-metadata)
+- **Description:** Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
+- **Status:** ![Commits](https://badgen.net/github/last-commit/northword/zotero-format-metadata)
+- **Zotero 6 Release:** [Latest Release](https://github.com/northword/zotero-format-metadata/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/northword/zotero-format-metadata/releases/latest)
