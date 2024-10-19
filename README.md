@@ -27,3 +27,12 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Status:** ![Commits](https://badgen.net/github/last-commit/UB-Mannheim/zotero-ocr)
 - **Zotero 6 Release:** [Latest Release](https://github.com/UB-Mannheim/zotero-ocr/releases/latest)
 - **Zotero 7 Release:** [Latest Release](https://github.com/UB-Mannheim/zotero-ocr/releases/latest)
+
+### ZotFile
+
+- **GitHub Repository:** [jlegewie / zotfile](https://github.com/jlegewie/zotfile)
+- **Description:** ZotFile is a Zotero plugin designed to enhance management of your attachments. It can automatically rename, move, and attach PDFs (or other files) to Zotero items. It also facilitates syncing PDFs from your Zotero library to your mobile PDF reader (e.g., iPad or Android tablet) and offers the functionality to extract annotations from PDFs.
+- **Tags:** `zotero`, `pdf-management`, `annotations`, `sync`, `attachments`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/jlegewie/zotfile)
+- **Zotero 6 Release:** [Latest Release](https://github.com/jlegewie/zotfile/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
