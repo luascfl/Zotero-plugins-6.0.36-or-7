@@ -52,7 +52,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 - **Tags:** `pdf`, `plugin`, `translate`, `translation`, `zotero`, `zotero-plugin`, `zotero7`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/windingwind/zotero-pdf-translate)
-- **Zotero 6 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-translate/releases/latest)
+- **Zotero 6 Release:** [v 1.0.25](https://github.com/windingwind/zotero-pdf-translate/releases/tag/v1.0.25)
 - **Zotero 7 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-translate/releases/latest)
 
 ### Zotero PDF Preview
