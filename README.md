@@ -70,7 +70,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** Install add-ons directly in Zotero | Zotero Add-on Market | Zotero插件市场
 - **Tags:** `zotero`, `zotero-addon`, `zotero-addon-market`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/syt2/zotero-addons)
-- **Zotero 6 Release:** [Latest Release](https://github.com/syt2/zotero-addons/releases/latest)
+- **Zotero 6 Release:** [v 0.6.0-6](https://github.com/syt2/zotero-addons/releases/download/0.6.0-6/zotero-addons.xpi)
 - **Zotero 7 Release:** [Latest Release](https://github.com/syt2/zotero-addons/releases/latest)
 
 ### Zotero ShortDOI
@@ -104,7 +104,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** Keep track of whether you've read items in Zotero
 - **Tags:** `reading-list`, `todo`, `zotero`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/Dominic-DallOsto/zotero-reading-list)
-- **Zotero 6 Release:** [Latest Release](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/latest)
+- **Zotero 6 Release:** [v 0.3.2](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/download/v0.3.2/zotero-reading-list-0.3.2.xpi)
 - **Zotero 7 Release:** [Latest Release](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/latest)
 
 ### Backup Plugin for Zotero
@@ -121,13 +121,13 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** GPT Meet Zotero.
 - **Tags:** `gpt`, `zotero`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/MuiseDestiny/zotero-gpt)
-- **Zotero 6 Release:** [Latest Release](https://github.com/MuiseDestiny/zotero-gpt/releases/latest)
+- **Zotero 6 Release:** [v 0.2.9](https://github.com/MuiseDestiny/zotero-gpt/releases/download/0.2.9/zotero-gpt-129.xpi)
 - **Zotero 7 Release:** [Latest Release](https://github.com/MuiseDestiny/zotero-gpt/releases/latest)
 
-### Zotero Format Metadata
+### Zotero Format Metadata/Linter
 
 - **GitHub Repository:** [northword / zotero-format-metadata](https://github.com/northword/zotero-format-metadata)
 - **Description:** Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
 - **Status:** ![Commits](https://badgen.net/github/last-commit/northword/zotero-format-metadata)
-- **Zotero 6 Release:** [Latest Release](https://github.com/northword/zotero-format-metadata/releases/latest)
+- **Zotero 6 Release:** [v 0.4.5](https://github.com/northword/zotero-format-metadata/releases/download/0.4.4/zotero-format-metadata-0.4.5.xpi)
 - **Zotero 7 Release:** [Latest Release](https://github.com/northword/zotero-format-metadata/releases/latest)
