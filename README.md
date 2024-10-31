@@ -121,7 +121,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** GPT Meet Zotero.
 - **Tags:** `gpt`, `zotero`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/MuiseDestiny/zotero-gpt)
-- **Zotero 6 Release:** [v 0.2.9](https://github.com/MuiseDestiny/zotero-gpt/releases/download/0.2.9/zotero-gpt-129.xpi)
+- **Zotero 6 Release:** [v 0.3.0](https://github.com/MuiseDestiny/zotero-gpt/releases/download/0.3.0/zotero-gpt.xpi)
 - **Zotero 7 Release:** [Latest Release](https://github.com/MuiseDestiny/zotero-gpt/releases/latest)
 
 ### Zotero Format Metadata/Linter
