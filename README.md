@@ -70,7 +70,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** Install add-ons directly in Zotero | Zotero Add-on Market | Zotero插件市场
 - **Tags:** `zotero`, `zotero-addon`, `zotero-addon-market`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/syt2/zotero-addons)
-- **Zotero 6 Release:** [v 0.6.0-6](https://github.com/syt2/zotero-addons/releases/download/0.6.0-6/zotero-addons.xpi)
+- **Zotero 6 Release:** [v 0.6.0-6](https://github.com/syt2/zotero-addons/releases/tag/0.6.0-3)
 - **Zotero 7 Release:** [Latest Release](https://github.com/syt2/zotero-addons/releases/latest)
 
 ### Zotero ShortDOI
@@ -104,7 +104,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** Keep track of whether you've read items in Zotero
 - **Tags:** `reading-list`, `todo`, `zotero`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/Dominic-DallOsto/zotero-reading-list)
-- **Zotero 6 Release:** [v 0.3.2](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/download/v0.3.2/zotero-reading-list-0.3.2.xpi)
+- **Zotero 6 Release:** [v 0.3.2](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/tag/v0.3.2)
 - **Zotero 7 Release:** [Latest Release](https://github.com/Dominic-DallOsto/zotero-reading-list/releases/latest)
 
 ### Backup Plugin for Zotero
@@ -121,7 +121,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** GPT Meet Zotero.
 - **Tags:** `gpt`, `zotero`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/MuiseDestiny/zotero-gpt)
-- **Zotero 6 Release:** [v 0.3.0](https://github.com/MuiseDestiny/zotero-gpt/releases/download/0.3.0/zotero-gpt.xpi)
+- **Zotero 6 Release:** [v 0.3.0](https://github.com/MuiseDestiny/zotero-gpt/releases/tag/0.3.0)
 - **Zotero 7 Release:** [Latest Release](https://github.com/MuiseDestiny/zotero-gpt/releases/latest)
 
 ### Zotero Format Metadata/Linter
@@ -129,5 +129,14 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **GitHub Repository:** [northword / zotero-format-metadata](https://github.com/northword/zotero-format-metadata)
 - **Description:** Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
 - **Status:** ![Commits](https://badgen.net/github/last-commit/northword/zotero-format-metadata)
-- **Zotero 6 Release:** [v 0.4.5](https://github.com/northword/zotero-format-metadata/releases/download/0.4.4/zotero-format-metadata-0.4.5.xpi)
+- **Zotero 6 Release:** [v 0.4.4](https://github.com/northword/zotero-format-metadata/releases/tag/0.4.4)
 - **Zotero 7 Release:** [Latest Release](https://github.com/northword/zotero-format-metadata/releases/latest)
+
+### ARIA AI Research Assistant
+
+- **GitHub Repository:** [lifan0127 / ai-research-assistant](https://github.com/lifan0127/ai-research-assistant)
+- **Description:** Aria is Your AI Research Assistant Powered by GPT Large Language Models
+- **Tags:** `ai-assistant`, `gpt`, `large-language-models`, `research-paper`, `zotero`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/lifan0127/ai-research-assistant)
+- **Zotero 6 Release:** [v 0.8.0](https://github.com/lifan0127/ai-research-assistant/releases/tag/0.8.0)
+- **Zotero 7 Release:** [Latest Release](https://github.com/lifan0127/ai-research-assistant/releases/latest)
