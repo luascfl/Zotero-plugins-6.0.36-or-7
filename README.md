@@ -132,7 +132,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Zotero 6 Release:** [v 0.4.4](https://github.com/northword/zotero-format-metadata/releases/tag/0.4.4)
 - **Zotero 7 Release:** [Latest Release](https://github.com/northword/zotero-format-metadata/releases/latest)
 
-### ARIA AI Research Assistant
+### Zotero ARIA AI Research Assistant
 
 - **GitHub Repository:** [lifan0127 / ai-research-assistant](https://github.com/lifan0127/ai-research-assistant)
 - **Description:** Aria is Your AI Research Assistant Powered by GPT Large Language Models
@@ -140,3 +140,12 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Status:** ![Commits](https://badgen.net/github/last-commit/lifan0127/ai-research-assistant)
 - **Zotero 6 Release:** [v 0.8.0](https://github.com/lifan0127/ai-research-assistant/releases/tag/0.8.0)
 - **Zotero 7 Release:** [Latest Release](https://github.com/lifan0127/ai-research-assistant/releases/latest)
+
+### Zotero ChatPDF
+
+- **GitHub Repository:** [ljeagle / zotero-chatpdf](https://github.com/ljeagle/zotero-chatpdf)
+- **Description:** Integrates Zotero with ChatPDF
+- **Tags:** `chatpdf`, `claude-3`, `gemini`, `gemma2`, `gpt-4o`, `llama3`, `mistral`, `phi3-5`, `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/ljeagle/zotero-chatpdf)
+- **Zotero 6 Release:** [Latest Release](https://github.com/ljeagle/zotero-chatpdf/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/ljeagle/zotero-chatpdf/releases/latest)
