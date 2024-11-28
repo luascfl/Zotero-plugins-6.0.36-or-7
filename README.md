@@ -149,3 +149,12 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Status:** ![Commits](https://badgen.net/github/last-commit/ljeagle/zotero-chatpdf)
 - **Zotero 6 Release:** [Latest Release](https://github.com/ljeagle/zotero-chatpdf/releases/latest)
 - **Zotero 7 Release:** [Latest Release](https://github.com/ljeagle/zotero-chatpdf/releases/latest)
+
+### Zotero SciHub
+
+- **GitHub Repository:** [ethanwillis / zotero-scihub](https://github.com/ethanwillis/zotero-scihub)
+- **Description:** A plugin that will automatically download PDFs of Zotero items from Sci-Hub
+- **Tags:** `openscience`, `scihub`, `zotero`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/ethanwillis/zotero-scihub)
+- **Zotero 6 Release:** [Latest Release](https://github.com/ethanwillis/zotero-scihub/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/ethanwillis/zotero-scihub/releases/latest)
