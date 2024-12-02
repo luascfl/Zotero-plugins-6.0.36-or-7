@@ -158,3 +158,29 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Status:** ![Commits](https://badgen.net/github/last-commit/ethanwillis/zotero-scihub)
 - **Zotero 6 Release:** [Latest Release](https://github.com/ethanwillis/zotero-scihub/releases/latest)
 - **Zotero 7 Release:** [Latest Release](https://github.com/ethanwillis/zotero-scihub/releases/latest)
+
+### PapersGPT for Zotero
+
+- **GitHub Repository:** [papersgpt / papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero)
+- **Description:** Zotero AI plugin chatting papers with ChatGPT, Gemini, Claude, Llama 3.2, QwQ-32B-Preview, Marco-o1, Gemma, Mistral, and Phi-3.5
+- **Tags:** `ai`, `chatgpt`, `claude`, `gemini`, `gemma`, `llama`, `marco-o1`, `mistral`, `paper`, `phi-3`, `qwq-32b-preview`, `summary`, `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/papersgpt/papersgpt-for-zotero)
+- **Zotero 6 Release:** [Latest Release](https://github.com/papersgpt/papersgpt-for-zotero/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/papersgpt/papersgpt-for-zotero/releases/latest)
+
+### Bionic for Zotero
+
+- **GitHub Repository:** [windingwind / bionic-for-zotero](https://github.com/windingwind/bionic-for-zotero)
+- **Description:** Bionic reading experience with Zotero.
+- **Tags:** `bionic-reading`, `pdf`, `zotero`, `zotero-addon`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/windingwind/bionic-for-zotero)
+- **Zotero 6 Release:** [Latest Release](https://github.com/windingwind/bionic-for-zotero/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/windingwind/bionic-for-zotero/releases/latest)
+
+### Scite Zotero Plugin
+
+- **GitHub Repository:** [scitedotai / scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin)
+- **Description:** scite zotero plugin
+- **Status:** ![Commits](https://badgen.net/github/last-commit/scitedotai/scite-zotero-plugin)
+- **Zotero 6 Release:** [v 1.11.6](https://github.com/scitedotai/scite-zotero-plugin/releases/tag/v1.11.6)
+- **Zotero 7 Release:** [Latest Release](https://github.com/scitedotai/scite-zotero-plugin/releases/latest)
