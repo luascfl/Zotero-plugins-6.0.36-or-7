@@ -184,3 +184,12 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Status:** ![Commits](https://badgen.net/github/last-commit/scitedotai/scite-zotero-plugin)
 - **Zotero 6 Release:** [v 1.11.6](https://github.com/scitedotai/scite-zotero-plugin/releases/tag/v1.11.6)
 - **Zotero 7 Release:** Unreleased, unmaintained
+
+### Zotmoov
+
+- **GitHub Repository:** [wileyyugioh / zotmoov](https://github.com/wileyyugioh/zotmoov)
+- **Description:** Zotero plugin to automatically move attachments and link them
+- **Tags:** `zotero`, `zotero-plugin`
+- **Status:** ![Commits](https://badgen.net/github/last-commit/wileyyugioh/zotmoov)
+- **Zotero 6 Release:** [Latest Release](https://github.com/wileyyugioh/zotmoov/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/wileyyugioh/zotmoov/releases/latest)
