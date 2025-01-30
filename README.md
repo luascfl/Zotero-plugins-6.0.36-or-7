@@ -44,7 +44,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Tags:** `organization`, `papers`, `todoist`, `zotero`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/wbthomason/zotodo)
 - **Zotero 6 Release:** [Latest Release](https://github.com/wbthomason/zotodo/releases/latest)
-- **Zotero 7 Release:** [Latest Release](https://github.com/wbthomason/zotodo/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
 
 ### Zotero PDF Translate
 
@@ -62,7 +62,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Tags:** `pdf`, `preview`, `zotero`, `zotero-plugin`, `zotero7`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/windingwind/zotero-pdf-preview)
 - **Zotero 6 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-preview/releases/latest)
-- **Zotero 7 Release:** [Latest Release](https://github.com/windingwind/zotero-pdf-preview/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
 
 ### Zotero Addons
 
@@ -81,14 +81,14 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Zotero 6 Release:** [Latest Release](https://github.com/bwiernik/zotero-shortdoi/releases/latest)
 - **Zotero 7 Release:** [Latest Release](https://github.com/bwiernik/zotero-shortdoi/releases/latest)
 
-### Zotitle
+### Zotitle Title Manager
 
 - **GitHub Repository:** [ManuelaRunge / Zotitle](https://github.com/ManuelaRunge/Zotitle)
 - **Description:** Zotero plugin to change title case
 - **Tags:** `plugin`, `zotero`, `zotero-plugin`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/ManuelaRunge/Zotitle)
 - **Zotero 6 Release:** [Latest Release](https://github.com/ManuelaRunge/Zotitle/releases/latest)
-- **Zotero 7 Release:** [Latest Release](https://github.com/ManuelaRunge/Zotitle/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
 
 ### Zotero Night
 
@@ -96,7 +96,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** Night theme for Zotero UI and PDF
 - **Status:** ![Commits](https://badgen.net/github/last-commit/tefkah/zotero-night)
 - **Zotero 6 Release:** [Latest Release](https://github.com/tefkah/zotero-night/releases/latest)
-- **Zotero 7 Release:** [Latest Release](https://github.com/tefkah/zotero-night/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
 
 ### Zotero Reading List
 
@@ -113,7 +113,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** Backup Plugin for Zotero
 - **Status:** ![Commits](https://badgen.net/github/last-commit/iShareStuff/Backup-Plugin-for-Zotero)
 - **Zotero 6 Release:** [Latest Release](https://github.com/iShareStuff/Backup-Plugin-for-Zotero/releases/latest)
-- **Zotero 7 Release:** [Latest Release](https://github.com/iShareStuff/Backup-Plugin-for-Zotero/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
 
 ### Zotero GPT
 
@@ -157,7 +157,7 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Tags:** `openscience`, `scihub`, `zotero`
 - **Status:** ![Commits](https://badgen.net/github/last-commit/ethanwillis/zotero-scihub)
 - **Zotero 6 Release:** [Latest Release](https://github.com/ethanwillis/zotero-scihub/releases/latest)
-- **Zotero 7 Release:** [Latest Release](https://github.com/ethanwillis/zotero-scihub/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
 
 ### PapersGPT for Zotero
 
@@ -183,4 +183,4 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Description:** scite zotero plugin
 - **Status:** ![Commits](https://badgen.net/github/last-commit/scitedotai/scite-zotero-plugin)
 - **Zotero 6 Release:** [v 1.11.6](https://github.com/scitedotai/scite-zotero-plugin/releases/tag/v1.11.6)
-- **Zotero 7 Release:** [Latest Release](https://github.com/scitedotai/scite-zotero-plugin/releases/latest)
+- **Zotero 7 Release:** Unreleased, unmaintained
