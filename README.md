@@ -202,3 +202,12 @@ To install a plugin, follow this guide: [Zotero Plugin Installation](https://www
 - **Status:** ![Commits](https://badgen.net/github/last-commit/wshanks/Zutilo)
 - **Zotero 6 Release:** [Latest Release](https://github.com/wshanks/Zutilo/releases/latest)
 - **Zotero 7 Release:** [Latest Release](https://github.com/wshanks/Zutilo/releases/latest)
+
+### Zotero Zotts
+
+- **GitHub Repository:** [ImperialSquid / zotero-zotts](https://github.com/ImperialSquid/zotero-zotts)
+- **Description:** A Zotero plugin adding text to speech (TTS) functionality to various screens
+- **Tags:** (No tags provided in the information)
+- **Status:** ![Commits](https://badgen.net/github/last-commit/ImperialSquid/zotero-zotts)
+- **Zotero 6 Release:** [Latest Release](https://github.com/ImperialSquid/zotero-zotts/releases/latest)
+- **Zotero 7 Release:** [Latest Release](https://github.com/ImperialSquid/zotero-zotts/releases/latest)
