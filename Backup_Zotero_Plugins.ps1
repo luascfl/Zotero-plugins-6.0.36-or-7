@@ -55,7 +55,9 @@ $repos = @(
     @{ Owner = "lifan0127"; Repo = "ai-research-assistant" },
     @{ Owner = "papersgpt"; Repo = "papersgpt-for-zotero" },
     @{ Owner = "windingwind"; Repo = "bionic-for-zotero" },
-    @{ Owner = "wileyyugioh"; Repo = "zotmoov" }
+    @{ Owner = "wileyyugioh"; Repo = "zotmoov" },
+    @{ Owner = "ImperialSquid"; Repo = "zotero-zotts" },
+    @{ Owner = "wshanks"; Repo = "zutilo" }
 )
 
 foreach ($repo in $repos) {
